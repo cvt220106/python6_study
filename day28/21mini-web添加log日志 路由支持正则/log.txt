@@ -1,4 +1,8 @@
-2022-06-30 15:02:29,293-6024-7-将日志输出到文件.py[line:13]-INFO: 这是 logging info message
-2022-06-30 15:02:29,301-6024-7-将日志输出到文件.py[line:14]-WARNING: 这是 logging warning message
-2022-06-30 15:02:29,301-6024-7-将日志输出到文件.py[line:15]-ERROR: 这是 logging error message
-2022-06-30 15:02:29,301-6024-7-将日志输出到文件.py[line:16]-CRITICAL: 这是 logging critiaal message
+2022-06-30 20:36:10,196-F:\python_code6th\python6_study\day28\21mini-web添加log日志 路由支持正则\7-将日志输出到文件.py7-将日志输出到文件.py[line:17]-2380-INFO(20): 这是 logging info message
+2022-06-30 20:36:10,196-F:\python_code6th\python6_study\day28\21mini-web添加log日志 路由支持正则\7-将日志输出到文件.py7-将日志输出到文件.py[line:18]-2380-WARNING(30): 这是 logging warning message
+2022-06-30 20:36:10,196-F:\python_code6th\python6_study\day28\21mini-web添加log日志 路由支持正则\7-将日志输出到文件.py7-将日志输出到文件.py[line:19]-2380-ERROR(40): 这是 logging error message
+2022-06-30 20:36:10,196-F:\python_code6th\python6_study\day28\21mini-web添加log日志 路由支持正则\7-将日志输出到文件.py7-将日志输出到文件.py[line:20]-2380-CRITICAL(50): 这是 logging critiaal message
+2022-06-30 20:38:14,451-F:\python_code6th\python6_study\day28\21mini-web添加log日志 路由支持正则\8-即输出到文件又输出到控制台.py8-即输出到文件又输出到控制台.py[line:34]-17704-INFO(20): 这是 logger info message
+2022-06-30 20:38:14,451-F:\python_code6th\python6_study\day28\21mini-web添加log日志 路由支持正则\8-即输出到文件又输出到控制台.py8-即输出到文件又输出到控制台.py[line:35]-17704-WARNING(30): 这是 logger warning message
+2022-06-30 20:38:14,451-F:\python_code6th\python6_study\day28\21mini-web添加log日志 路由支持正则\8-即输出到文件又输出到控制台.py8-即输出到文件又输出到控制台.py[line:36]-17704-ERROR(40): 这是 logger error message
+2022-06-30 20:38:14,451-F:\python_code6th\python6_study\day28\21mini-web添加log日志 路由支持正则\8-即输出到文件又输出到控制台.py8-即输出到文件又输出到控制台.py[line:37]-17704-CRITICAL(50): 这是 logger critical message
